@@ -1,0 +1,29 @@
+{
+  "name": "unique-list-crdt",
+  "version": "0.0.1",
+  "description": "a unique list which follows the properties of a crdt",
+  "main": "src/Main.purs",
+  "scripts": {
+    "test": "pulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mceldeen/unique-list-crdt.git"
+  },
+  "keywords": [
+    "crdt",
+    "unique",
+    "list"
+  ],
+  "author": "Matthew Conger-Eldeen <mceldeen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceldeen/unique-list-crdt/issues"
+  },
+  "homepage": "https://github.com/mceldeen/unique-list-crdt#readme",
+  "devDependencies": {
+    "bower": "^1.8.8",
+    "pulp": "^13.0.0",
+    "purescript": "0.13.2"
+  }
+}
